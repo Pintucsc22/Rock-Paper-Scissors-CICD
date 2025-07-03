@@ -1,1 +1,1 @@
-# Javascript-practice
+# Rock Paper Scissors Game
