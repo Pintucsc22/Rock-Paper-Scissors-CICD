@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  web:
+    build: .
+    container_name: my-static-site
+    ports:
+      - "8005:80"       # Map host port 8080 to container port 80 (Nginx default)
+    restart: unless-stopped  # Auto-restart unless manually stopped
