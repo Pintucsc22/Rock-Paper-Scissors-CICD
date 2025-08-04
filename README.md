@@ -16,7 +16,7 @@ This is a full-stack Rock Paper Scissors game built with **Node.js + Express** f
 
 ## 🖼️ Screenshots
 
-| Game UI | GitHub Actions |
+| Game UI | Results |
 |---------|----------------|
 | ![Game UI](/images/PlayGame.png) | ![Result](/images/Result.png) |
 
