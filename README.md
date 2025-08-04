@@ -34,7 +34,7 @@ This app bridges frontend and backend development (Node.js + HTML/CSS/JS) with f
 
 ## 🖼️ Screenshots
 
-| Game UI | GitHub Actions |
+| Game UI | Results |
 |---------|----------------|
 | ![Game UI](/images/PlayGame.png) | ![Result](/images/Result.png) |
 
