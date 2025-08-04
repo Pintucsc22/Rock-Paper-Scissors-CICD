@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  web:
+    image: "gituser1/rock-paper-scissor-game:latest"
+    ports:
+      - "8005:80"       # Map host port 8005 to container port 80 (Nginx default)
+    # restart: unless-stopped  # Auto-restart unless manually stopped

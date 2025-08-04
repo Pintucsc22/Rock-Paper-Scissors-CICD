@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rock Paper Scissors - Node.js CI/CD Demo
 
 This is a simple Node.js + Express app that lets users play Rock Paper Scissors in their browser.
@@ -33,5 +34,4 @@ On every push to `main`, this repo:
 2. Builds the Docker image
 3. Logs in to DockerHub
 4. Pushes the image
-
 
