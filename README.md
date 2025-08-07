@@ -50,7 +50,7 @@ This project bridges development (Node.js + HTML/CSS/JS) with full automation:
 
 | Game UI | Result |
 |---------|--------|
-| ![Game UI](screenshots/game-ui.png) | ![Result](screenshots/result.png) |
+| ![Game UI](/images/PlayGame.png) | ![Result](/images/Result.png) |
 
 ---
 
